@@ -22,43 +22,43 @@
   
 
   @media all and (max-width: 800px){
-    .button-group > .five {order: 5;}
-    .button-group > .six {order: 6;}
-    .button-group > .seven {order: 1;}
-    .button-group > .eight {order: 2;}
-    .button-group > .nine {order: 3;}
-    .button-group > .prod {order:  12;}
-    .button-group > .plus {order: 4;}
-    .button-group > .four {order: 7;}
-    .button-group > .three {order: 9;}
-    .button-group > .two {order: 10;}
-    .button-group > .one {order: 11;}
-    .button-group > .zero {order: 13;}
-    .button-group > .equal {order: 15;}
-    .button-group > .clear {order: 14;}
-    .button-group > .minus {order: 8;}
-    .button-group > .divide {order: 16;}  
+    .button-group > .class-5 {order: 5;}
+    .button-group > .class-6 {order: 6;}
+    .button-group > .class-0 {order: 1;}
+    .button-group > .class-1 {order: 2;}
+    .button-group > .class-2 {order: 3;}
+    .button-group > .class-11 {order:  12;}
+    .button-group > .class-3 {order: 4;}
+    .button-group > .class-4 {order: 7;}
+    .button-group > .class-10 {order: 9;}
+    .button-group > .class-9 {order: 10;}
+    .button-group > .class-8 {order: 11;}
+    .button-group > .class-12 {order: 13;}
+    .button-group > .class-14 {order: 15;}
+    .button-group > .class-13 {order: 14;}
+    .button-group > .class-7 {order: 8;}
+    .button-group > .class-15 {order: 16;}  
     .button-group > div{
         width:20%
       }
   }
   @media all and (min-width: 800px){
-    .button-group > .five {order: 1;}
-    .button-group > .six {order: 2;}
-    .button-group > .seven {order: 3;}
-    .button-group > .eight {order: 4;}
-    .button-group > .nine {order: 5;}
-    .button-group > .prod {order:  6;}
-    .button-group > .plus {order: 7;}
-    .button-group > .four {order: 8;}
-    .button-group > .three {order: 9;}
-    .button-group > .two {order: 10;}
-    .button-group > .one {order: 11;}
-    .button-group > .zero {order: 12;}
-    .button-group > .equal {order: 13;}
-    .button-group > .clear {order: 14;}
-    .button-group > .minus {order: 15;}
-    .button-group > .divide {order: 16;}  
+    .button-group > .class-5 {order: 1;}
+    .button-group > .class-6 {order: 2;}
+    .button-group > .class-0 {order: 3;}
+    .button-group > .class-1 {order: 4;}
+    .button-group > .class-2 {order: 5;}
+    .button-group > .class-11 {order:  6;}
+    .button-group > .class-3 {order: 7;}
+    .button-group > .class-4 {order: 8;}
+    .button-group > .class-10 {order: 9;}
+    .button-group > .class-9 {order: 10;}
+    .button-group > .class-8 {order: 11;}
+    .button-group > .class-12 {order: 12;}
+    .button-group > .class-14 {order: 13;}
+    .button-group > .class-13 {order: 14;}
+    .button-group > .class-7 {order: 15;}
+    .button-group > .class-15 {order: 16;}  
     .button-group > div{
         width:13%
       }
