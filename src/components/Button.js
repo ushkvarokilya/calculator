@@ -10,7 +10,7 @@ class Button extends React.Component {
 
     return (
       <div className="button">
-        <button onClick={this.handleClick}>{this.props.name}</button>
+        <button onClick={this.handleClick}>11{this.props.name}</button>
       </div>
     );
   }
